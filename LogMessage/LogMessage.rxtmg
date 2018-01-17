@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.0">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="LogMessage"
+      id="915832f2-28a5-470d-a21a-9beb7051fb65"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="LogMessage"
+      id="915832f2-28a5-470d-a21a-9beb7051fb65"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

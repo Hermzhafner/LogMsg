@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="LogMessageRepository"
+id="6afa696c-9308-4bed-b934-c7b90457369f"
+rxversion="8.0">
+  <codegen
+  classname="LogMessageRepository"
+  namespace="LogMessage"/>
+  <rootfolder
+  name="Root"
+  id="c531d237-eeef-499a-924c-0d9a71241ab1"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

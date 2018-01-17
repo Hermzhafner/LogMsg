@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3a98508d-70c8-4659-9441-2f88747c2d50"
+mode="Global"
+rxversion="8.0">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="LogMessage">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Hello Hello Hello"
+		optional="False"
+		reportlevel="Info;20"
+		searchpropertyid="542f3177-c55c-4500-9b19-2363681aa904">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="6afa696c-9308-4bed-b934-c7b90457369f"
+	name="LogMessageRepository"
+	relativepath="LogMessageRepository.rxrep"
+	rxversion="8.0">
+		<codegen
+		classname="LogMessageRepository"
+		namespace="LogMessage">
+		</codegen>
+		<rootfolder
+		id="c531d237-eeef-499a-924c-0d9a71241ab1"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
